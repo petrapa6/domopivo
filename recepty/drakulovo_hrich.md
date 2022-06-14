@@ -1,4 +1,4 @@
-# Drakuluv hrich
+# Drakulovo hrich
 
 ## 14.6.2022
   * start: 9:00
