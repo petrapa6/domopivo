@@ -6,11 +6,12 @@
 
 ### Rmutovani
   * 22 l rmutovaci voda, 17 l vyslazovaci
-    | slad       | hmotnost |
-    | Pale Ale   | 5 kg     |
-    | Mnichovsky | 1.35 kg  |
-    | CaraPils   | 150 g    |
-    | CaraRed    | 150 g    |
+  | slad       | hmotnost |
+  | ---------- | -------- |
+  | Pale Ale   | 5 kg     |
+  | Mnichovsky | 1.35 kg  |
+  | CaraPils   | 150 g    |
+  | CaraRed    | 150 g    |
   * postup:
     | cas    | teplota °C |
     | 10 min | 53         |
