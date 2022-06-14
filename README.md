@@ -5,3 +5,4 @@
   * [Gwynbleidd: White IPA 16°](recepty/gwynbleidd.md)
   * [Svetr: Stout 13°](recepty/svetr.md)
   * [Ponožky: NEIPA 15°](recepty/ponozky.md)
+  * [Drákulovo hřích: Red Ale 14°](recepty/drakulovo_hrich.md)
