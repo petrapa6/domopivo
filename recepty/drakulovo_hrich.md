@@ -7,7 +7,7 @@
 
 ### Rmutovani
   * Slady: Plzensky 3 kg, CaraPils 1.75 kg, Mnichovsky 600 g, Pale Ale 700 g
-  * rmutovaci voda 20 l, vyslazovice 18 l
+  * rmutovaci voda 20 l, vyslazovaci 18 l
   * 25 min 54 st., 35 min 65 st., 20 min 73 st., na 78 st. a utnuti
   * jodova zkouska ok
   * scezeno 27 l
