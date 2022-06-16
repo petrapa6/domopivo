@@ -23,7 +23,9 @@
   * 4.5. 20:00 chmeleni za studena:
     * 36g Galaxy, 36g Mosaic, 36g Cascade
 
-![Ilustrace procesu vyroby piva Branik v pivovaru Staropramen, Martin Copyright](./fig/gwynbleidd_branik.jpg)
+#### Ilustrace procesu vyroby piva Branik v pivovaru Staropramen, Martin Copyright
+![](./fig/gwynbleidd_branik.jpg)
+
 
 ### Staceni
   * 10.5.
