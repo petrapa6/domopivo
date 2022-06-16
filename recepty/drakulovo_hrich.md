@@ -30,4 +30,4 @@
 TODO
 
 ## Puvodni recept: Australia Galaxy Red Ale
-![](./fig/drakulovo hrich.jpg)
+![](./fig/drakulovo_hrich.jpg)
