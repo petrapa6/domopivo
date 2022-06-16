@@ -6,6 +6,7 @@
   * start: 9:00
   * sladci: Pivel, Matej, sladek Vita, Dan
   * stav plynu pred: 4930.60, po: 4931.78 => 1.18 m3 == 0.01266 MWh => 2150 Kc/MWh => ~30 Kc
+  * [fotodokumentace](https://photos.google.com/share/AF1QipPe3ArMPT9l9A9mMxrP628GOxddz1VKbZxpsiD33a0CRsNH0h28JGGIkqPGwzVHXA?key=OURyOExmWjd0UHlUTnVEcWs5VURzMmstQkhHX1l3)
 
 ### Rmutovani
   * slady: Plzensky 3kg, CaraPils 1.75kg, Mnichovsky 600g, Pale Ale 700g
