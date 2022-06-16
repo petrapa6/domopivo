@@ -1,6 +1,7 @@
 # Drakulovo hrich
 
-![Navrh loga na etiketu](./fig/drakulovo_hrich_logo.png)
+![](./fig/drakulovo_hrich_logo.png)
+Navrh loga na etiketu
 
 ## 14.6.2022
   * start: 9:00
