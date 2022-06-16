@@ -16,13 +16,18 @@
   * Simcoe 35 g na 60 min
   * Simcoe 30 g na 32 min
   * Irsky mech 2 g na 2 min
+  * Ztraty 5.5 l (20%)
 
 ### Kvaseni
+  * Kvasinky: Safale S-05
   * Uzavreno 16:00, OG 1057 g/cm3, EPM 14.3
   * stoceno 21.5 l
+  * 16.6. 19:00:
+    * otevreno, sebrane hnede kaly
+    * doliti 270 ml vyvaru z cervene repy: 330 g predvarene repy, zalito horkou vodou cca 300 ml, rozmackano na kousky, po 10 minutach slito
   
 ### Staceni
 TODO
 
 ## Puvodni recept: Australia Galaxy Red Ale
-  * [ ] TODO
+![](fig/drakulovo hrich.jpg)
