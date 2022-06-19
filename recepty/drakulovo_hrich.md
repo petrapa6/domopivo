@@ -33,7 +33,7 @@
     * stale teploty 24-25C
   * 18.6. vecer: ukonceno primarni kvaseni, teplota okolo 25-26C
   * 19.6. 9:00:
-    * FG 1012 g/cm3
+    * FG 1012 g/cm3, ABV 5.9%
     * chmeleni za studena: 53g Citra, 53g Galaxy
     * preneseno do sklepa, kde je cca 16C
   
