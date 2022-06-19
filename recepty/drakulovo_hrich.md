@@ -31,6 +31,11 @@
     * doliti 270ml vyvaru z cervene repy: 330g predvarene repy, zalito horkou vodou cca 300ml, rozmackano na kousky, po 10 minutach slito
     * FG 1037 g/cm3, ABV 2.7%, stale kvasi
     * stale teploty 24-25C
+  * 18.6. vecer: ukonceno primarni kvaseni, teplota okolo 25-26C
+  * 19.6. 9:00:
+    * FG 1012 g/cm3
+    * chmeleni za studena: 53g Citra, 53g Galaxy
+    * preneseno do sklepa, kde je cca 16C
   
 ### Staceni
 TODO
