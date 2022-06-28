@@ -38,7 +38,12 @@
     * preneseno do sklepa, kde je cca 16C
   
 ### Staceni
-TODO
+  * 26.6. 21:00:
+    * preneseno ze sklepa (bylo 17C)  do lednice
+  * 27.6. 21:00:
+    * staceni, OG 1015 g/cm3 (mereno po cold crushingu, takze zavadejici cislo)
+    * 6 g/l glukozy (namichano na 19l 114g a vlito do filtrovaneho dila vcelku)
+    * 17.5l: 10 x 0.7l, 1 x 1l, 16 x 0.5l, 5 x 0.33l
 
 ## Puvodni recept: Australia Galaxy Red Ale
 ![](./fig/drakulovo_hrich.jpg)
