@@ -1,10 +1,11 @@
 # Sex-hop fragum
 
-![Navrh loga na etiketu](./fig/strawberry_milkshake_logo.png)
+![Navrh loga na etiketu](./fig/sex_hop_fragum_logo.jpg)
 
 ## 23.8.2022
   * start: 9:00
   * sladci: Pivel, Matej, Honzik
+  * fotoalbum: [Google Photos](https://photos.app.goo.gl/qUf6sjMaF7uMJ6ABA)
 
 ### Rmutovani
   * slady: 5kg Pale Ale, 600g Psenicne vlocky, 600g ovesne vlocky
@@ -15,6 +16,7 @@
 
 ### Chmelovar
   * 60min: Magnum 15g
+  * 10min: jablecne pyre, laktoza, invertni cukrovy sirup
   * 0min: whirlpool z Citra 51.7g, Simcoe 35.4g, Cascade 23g
   * jablecne pyre: cervena jablka, 500g bez slupek a jadrincu, namleto na pyre
 
@@ -32,4 +34,4 @@
   * Galaxy 42g
 
 ## Puvodni recept: Strawberry Milkshake IPA
-![](./fig/strawberry_milkshake.jpg)
+![](./fig/sex_hop_fragum.jpg)
