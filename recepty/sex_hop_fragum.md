@@ -13,18 +13,17 @@
   * 60min 65-68C, 68-78C, 10 min 78C
   * invertni cukrovy sirup: 1kg bileho cukru, 600ml vody, 1 lzicka kys. citronove -> varime hodinu
   * cca 30l sladiny
+  * jodova zkouska neprovedena
 
 ### Chmelovar
   * 60min: Magnum 15g
-  * 10min: jablecne pyre, laktoza, invertni cukrovy sirup
+  * 10min: jablecne pyre (cervena jablka, 500g bez slupek a jadrincu, namleto na pyre), laktoza 500g, invertni cukrovy sirup 500g
   * 0min: whirlpool z Citra 51.7g, Simcoe 35.4g, Cascade 23g
-  * jablecne pyre: cervena jablka, 500g bez slupek a jadrincu, namleto na pyre
 
 ### Fermentace
   * Kvasinky: Safale US-05
-  * Uzavreno , OG g/cm3, EPM °
-  * stoceno l
-  * DH: Galaxy, Mosaic
+  * Uzavreno 16:00, OG 1044 g/cm3, EPM 14.1°
+  * Stoceno 26.5l
   
 ### Staceni
 
