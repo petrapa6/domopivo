@@ -1,7 +1,7 @@
 # Pivovar Topivec: denik
 
 ### 2022
-  * [TODO: Strawberry Milkshake IPA 15°](recepty/strawberry_milkshake.md)
+  * [Sex-hop fragum: Strawberry Milkshake IPA 15°](recepty/strawberry_milkshake.md)
     * 14.6.2022
   * [Drákulovo hřích: Red Ale 14°](recepty/drakulovo_hrich.md)
     * 14.6.2022

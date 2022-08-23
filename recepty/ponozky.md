@@ -34,5 +34,8 @@
   * 15.8l
   * 17 x 0.7l, 3 x 0.33l
 
+### Ochutnavky
+  * 23.8.: posledni varka, extremne vonave (Pivel: extremni mangovitost, broskvovost, asi nejlepsi vune co jsme kdy vyrobili; oboji i v chuti) slabe telo a mirna chmelovost, extremni citrusovost
+
 ## Puvodni recept: NEIPA, NEIPA!
 ![](./fig/ponozky.jpg)
