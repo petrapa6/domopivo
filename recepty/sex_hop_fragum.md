@@ -24,6 +24,12 @@
   * Kvasinky: Safale US-05
   * Uzavreno 16:00, OG 1044 g/cm3, EPM 14.1°
   * Stoceno 26.5l
+  * Fermentace pri vyssich teplotach (az 26C)
+  * 25.8.: preneseno do sklepa, kde je 20C (primarni kvaseni jiz ukonceno)
+  * 27.8.: 
+    * 2840g jahod (bez stopek, nakrajene na cca 1cm kousky, ve 2 pytlicich)
+    * Mosaic 99.3g, Cascade 39g (samostatny pytlik se zavazim)
+    * FG 1019 g/cm3, ABV: 3.28%
   
 ### Staceni
 
