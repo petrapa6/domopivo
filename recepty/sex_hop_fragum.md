@@ -30,6 +30,8 @@
     * 2840g jahod (bez stopek, nakrajene na cca 1cm kousky, ve 2 pytlicich)
     * Mosaic 99.3g, Cascade 39g (samostatny pytlik se zavazim)
     * FG 1019 g/cm3, ABV: 3.28%
+  * 29.8.: Ze sklepa do bytu kde je cca 22C
+  * 1.9.: Cele dilo do lednice 
   
 ### Staceni
 
