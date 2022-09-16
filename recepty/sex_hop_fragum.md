@@ -34,6 +34,13 @@
   * 1.9.: Cele dilo do lednice 
   
 ### Staceni
+  * 3.9.: stoceno 19l, 5l do plastovych krabicek, pac nebylo vic lahvi :(
+  * 5.9.: stoceno zbylych 5l
+  * oboje s glukozou 6 g/l
+  * celkem ~24l: 15x0.7l, 16x0.5l, 1x2l, 2x1l, 5x0.33l
+  * FG 1018 g/cm3, ABV: 3.41%
+  * chut: citrusova (nejvice grapefruit)
+  * 11.9.: lahve do lednice
 
 ### Zasoby chmele pred
   * Simcoe 35.4g
