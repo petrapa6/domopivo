@@ -42,6 +42,9 @@
   * chut: citrusova (nejvice grapefruit)
   * 11.9.: lahve do lednice
 
+### Ochutnavky
+  * 10.6.2023 [Pivel]: mnaaaaaaaaaaaam, tak krasne jahodove, nasycene, zakulacene, vyvazene.. jak vune, tak chut
+
 ### Zasoby chmele pred
   * Simcoe 35.4g
   * Citra 52g

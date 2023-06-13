@@ -1,8 +1,10 @@
 # Pivovar Topivec: denik
 
 ### 2022
+  * [Nectalusaurus Citraceratops: Session NEIPA 11°](recepty/nectalusaurus_citraceratops.md)
+    * 13.6.2023
   * [Sex-hop fragum: Strawberry Milkshake IPA 15°](recepty/sex_hop_fragum.md)
-    * 14.6.2022
+    * 23.8.2022
   * [Drákulovo hřích: Red Ale 14°](recepty/drakulovo_hrich.md)
     * 14.6.2022
  
