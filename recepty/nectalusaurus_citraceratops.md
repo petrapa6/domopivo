@@ -25,7 +25,9 @@
   * Uzavreno 15:30, OG 1047 g/cm3, EPM 12°
   * stoceno 20.5l (varne ztraty a vylito tak 4-5l sedliny)
   * 15.6.: plna palba, probublava jak po Primator Hron 12°
-  * 17.6. dry hopping: Citra 49.2g, Talus 49.6g, Nectaron 50.8g
+  * 17.6. dry hopping:
+    * Citra 49.2g, Talus 49.6g, Nectaron 50.8g
+    * FG: 1020 g/cm3, ABV: 3.6%
   
 ### Staceni
 
