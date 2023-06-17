@@ -18,12 +18,14 @@
 ### Chmelovar
   * Mosaic 26g na 60 min
   * Protafloc 0.9g tbl na 8 min
-  * Nectaron, Talus, Citra po 50g kazdy do whirlpoolu
+  * Nectaron (alfa: 9.4%), Talus (alfa: 8.5%), Citra (alfa: 13.6%) po 50g kazdy do whirlpoolu
 
 ### Fermentace
   * Kvasinky: Safale US-05
   * Uzavreno 15:30, OG 1047 g/cm3, EPM 12°
   * stoceno 20.5l (varne ztraty a vylito tak 4-5l sedliny)
+  * 15.6.: plna palba, probublava jak po Primator Hron 12°
+  * 17.6. dry hopping: Citra 49.2g, Talus 49.6g, Nectaron 50.8g
   
 ### Staceni
 
