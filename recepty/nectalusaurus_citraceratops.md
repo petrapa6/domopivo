@@ -23,11 +23,14 @@
 ### Fermentace
   * Kvasinky: Safale US-05
   * Uzavreno 15:30, OG 1047 g/cm3, EPM 12°
-  * stoceno 20.5l (varne ztraty a vylito tak 4-5l sedliny)
+  * stoceno 20.5l (varne ztraty a vylito tak 4-5l sedliny); presun do sklepa s 15 °C
   * 15.6.: plna palba, probublava jak po Primator Hron 12°
   * 17.6. dry hopping:
     * Citra 49.2g, Talus 49.6g, Nectaron 50.8g
     * FG: 1020 g/cm3, ABV: 3.6%
+  * 19.6. 22:00 presun do bytu s ~22 °C
+  * 20.6. kvaseni se jeste malinko rozjelo, probublava kazdych 20s
+  * 20.6. 22:00 presun do lednice
   
 ### Staceni
 
