@@ -33,6 +33,10 @@
   * 20.6. 22:00 presun do lednice
   
 ### Staceni
+  * 22.6.:
+    * stoceno 17l, 7.25 g/l glukozy (puvodne vazeno 6.5 g/l na 19 l, ale mame ocividne spatnou rysku na kvasne nadobe)
+    * FG 1017 g/cm3, ABV: 3.94% (po cold crushingu, takze zkreslene)
+    * vonave, ale v chuti ostre
 
 ### Ochutnavky
 
