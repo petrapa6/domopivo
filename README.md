@@ -1,7 +1,7 @@
 # Pivovar Topivec: denik
 
 ### 2024
-  * [TMP](recepty/tmp.md)
+  * [Marhuľový vietor](recepty/marhulovy_vietor.md)
     * 4.7.2023
 
 ### 2023
