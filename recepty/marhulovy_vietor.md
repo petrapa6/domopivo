@@ -25,11 +25,13 @@
 ## 5.7.2024
 
 ### Chmelovar
+  * 11:45 zacatek (45 min jsme ohrivali do varu)
   * Crystal 10g na 60 min
   * schlazovani cca 15 min
 
 ### Fermentace
   * Safale US-05 11.5g
+  * stoceno 13:30
   * 24l na rysce -> ~22l real
   * preneseno do sklepa s 20C
   * stoceno s celkem dost bordelu (zapomneli jsme udelat whirlpool a nechat usadit pri schlazovani
