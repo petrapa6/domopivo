@@ -35,8 +35,11 @@
   * 24l na rysce -> ~22l real
   * preneseno do sklepa s 20C
   * stoceno s celkem dost bordelu (zapomneli jsme udelat whirlpool a nechat usadit pri schlazovani
-  
+
+## 15.7.2024
+
 ### Staceni
+ * Matej: 21.7.2024 do lednice
 
 ### Ochutnavky
 
