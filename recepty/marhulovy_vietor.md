@@ -35,11 +35,18 @@
   * 24l na rysce -> ~22l real
   * preneseno do sklepa s 20C
   * stoceno s celkem dost bordelu (zapomneli jsme udelat whirlpool a nechat usadit pri schlazovani
+  * 10.7.2024 -> FG 1017 (1.9% ABV) -> ale jeste pridavame merunky
+
+### Infuze 10.7.2024
+  * primarni kvaseni uz ukonceno
+  * 5 kg merunkoveho pyre (melo by mit cca 165 g fruktozy a glukozy) -> melo by dat +0.4% ABV
 
 ## 15.7.2024
 
 ### Staceni
- * Matej: 21.7.2024 do lednice
+  * cold-crushing 8h
+  * stoceno 21l -> 1l: 5 | 0.7l: 9 | 0.5l: 20
+  * Matej: 21.7.2024 do lednice
 
 ### Ochutnavky
 

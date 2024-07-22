@@ -2,7 +2,7 @@
 
 ### 2024
   * [Marhuľový vietor](recepty/marhulovy_vietor.md)
-    * 4.7.2023
+    * 4.7.2024
 
 ### 2023
   * [Nectalusaurus Citraceratops: Session NEIPA 11°](recepty/nectalusaurus_citraceratops.md)
