@@ -39,7 +39,7 @@
 
 ### Infuze 10.7.2024
   * primarni kvaseni uz ukonceno
-  * 5 kg merunkoveho pyre (melo by mit cca 165 g fruktozy a glukozy) -> melo by dat +0.4% ABV
+  * 5 kg merunkoveho pyre (melo by mit cca 165 g fruktozy a glukozy) -> melo by dat +0.4% ABV (estimat: 1g cukru prida 0.0524% na litr)
 
 ## 15.7.2024
 
