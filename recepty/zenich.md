@@ -1,4 +1,4 @@
-# Svatebni #1
+# Ženich
 ![](./fig/zenich.png)
 
 ## 23.2.2025
@@ -9,10 +9,9 @@
   * slady: Plzensky 4.2 kg, CaraPils 0.6 kg, Psenicny 0.4 kg, Ovesne vlocky 1.0 kg, Psenicne vlocky 0.5 kg
   * vystirka na 65C
   * rmutovaci voda: co se veslo do hrnce
-  * teplota cca: 60 min 65C, 
+  * teplota cca: 60 min 65C, pak nam to vystrelilo na 90C, tak jsme sli vystirat
   * jodova zkouska: OK
   * scezeno: plny bily hrnec
-  * hustota: 1025
 
 ### Chmelovar
   * 90 min
