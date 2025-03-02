@@ -19,9 +19,15 @@
 
 ### Fermentace
   * Safale US-05 11.5g
+  * dextroza 160 g (melo by pridat cca 0.41% ABV)
   * stoceno 18:45
   * OG 1049 g/cm3, EPM 13°
   * 25l na rysce -> ~23l real
+  * !!! zacla az o 2 dny pozdeji
+  * !!! po 1 dni presunuta do sklepa (8C)
+  * !!! 5 dni kvaseni ve sklepe (8C), ale bylo vesely
+  * nedele 2.3. (stari 1 tyden) presun domu do 19C
+    * insert Fazole (KegLand) a 144g HBC1019
 
 ### Puvodni recept: NEIPA, NEIPA!
 ![](./fig/ponozky.jpg)
