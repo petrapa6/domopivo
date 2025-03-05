@@ -29,5 +29,16 @@
   * nedele 2.3. (stari 1 tyden) presun domu do 19C
     * insert Fazole (KegLand) a 144g HBC1019
 
+### Staceni
+  * 5.3. 21:00
+  * 6.5 g/l dextroxy
+  * 20.3l
+    * 2l x 1
+    * 1l x 1
+    * 0.7l x 14
+    * 0.5l x 15
+  * FG 1015 g/cm3
+  * ABV 4.5%
+
 ### Puvodni recept: NEIPA, NEIPA!
 ![](./fig/ponozky.jpg)
