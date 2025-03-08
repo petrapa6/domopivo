@@ -31,5 +31,8 @@
 
 ### Staceni
 
-### Puvodni recept: MARVEL
+### Target
+![](./fig/nevesta/predikce.jpg)
+
+### Inspirace: MARVEL
 ![](./fig/marvel.jpg)
