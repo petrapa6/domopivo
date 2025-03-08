@@ -1,5 +1,5 @@
 # Nevěsta
-![](./fig/nevesta.jpg)
+![](./fig/nevesta.png)
 
 ## 8.3.2025
   * start: 12:30
