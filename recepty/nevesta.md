@@ -27,7 +27,10 @@
   * OG 1040 g/cm3, EPM 10.5° (podle hustomeru)
   * OG 1055 g/cm3, EPM 14° (podle fazole)
   * 25l na rysce -> 23l real
-  * TODO: 70 g Citra @ XXX days
+  * fermentace od 2. dne ve sklepe (8C)
+  * 70 g Citra @ 5 den
+  * 3.5 kg maliny @ 5 den
+  * FG 1029 g/cm3 (3.5% ABV) @ 5 day
 
 ### Staceni
 
