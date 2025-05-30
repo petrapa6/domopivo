@@ -5,7 +5,14 @@
 Domácí pivovar tvořen sestavou putovních sládků a ochutnávačů.
 Naše specialita? Vyvážené aroma a nevyvážené procesy.
 
-![Sladci](.fig/sladci.jpg)
+Vyber nasich sladku
+
+![Sladci](.fig/sladek_0.jpg)
+![Sladci](.fig/sladek_7.jpg)
+![Sladci](.fig/sladek_2.jpg)
+![Sladci](.fig/sladek_3.jpg)
+![Sladci](.fig/sladek_4.jpg)
+![Sladci](.fig/sladek_6.jpg)
 
 ## 🔬 Využíváme cutting-edge technologie
 
@@ -21,37 +28,64 @@ Názory na tento model se mezi experty liší, ale 9 z 10 sládků ho nekompromi
 Desátý sládek tomu nerozumí.
 
 ![Prah](.fig/prah.jpg)
+![Prah](.fig/prah2.jpg)
 
 ### 🌡️ Měření teploty
 Přesnost naší teploměrové soustavy využívá biologických termoreceptorů založených na tisících letech evoluce.
-Kalibrace měřící sondy probíhá zabalením sondy pytlem mraženého hrášku na 5 minut, 20 minutového větrání v pokojové teplotě a 2 minutovém míchání čerstvě uvařeného černého čaje.
 
 ![Teplomer](.fig/teplomer.jpg)
 
-### 🍬 Vyslazování cukrů
-Dlouholetá zkušenost ukázala, že při zastavení přítoku vyslazovací vody je finální objem nedostatečný pro dlouhodobou konzumaci a proto využíváme metody **"přilívej dokud to teče"**. 
-Naše postupy využívají také sekundární funkci modelu Prahus 3000 pro maximální extrakci cukrů z díla.
+### 🍬 Filtrace
+Pasterizace? To nezname. Ale pres nas filtr neprojde nic spatneho!
 Není to úplně podle BJCP<sup>[1](#footnote1)</sup>, ale výsledek je sladký jak život bez úklidu.
 
 ![Vyslazovani](.fig/vyslazovani.jpg)
 
-Naším cílem je maximalizovat objem.  
-Reálně ale maximalizujeme úklid.
+Naším cílem je maximalizovat objem. Reálně ale maximalizujeme úklid.
 ![Preteceni](.fig/preteceni.jpg)
 
 ### 🦠 Hydratace kvasinek
-Kvasinky jsou statečné a je jich mnogo. Proto využíváme metody solení hovězí flákoty, po které navazuje uzavření a několikadenní modlení všech přítomných.
+Kvasinky jsou statečné a je jich mnogo. Ale nejdriv potrebuji zalit, stejne jako nase domaci pokojovky.
 
-![Hydratace](.fig/hydratace.jpg)
+![Hydratace](.fig/kvasinky.jpg)
 
 ### 📈 Měření kvality
 Používáme nejmodernějších přístupů vizuálního spektroskopie kalibrované zásadně proti přímému slunci na konci varnického dne.
 Kontrolou barvy, transparentnosti a zakalení vzorku pak poznáme kvalitu díla a předejdeme případným vadám.
 
-![Spektroskopie](.fig/spektroskopie.jpg)
+![Mereni](.fig/spektrografie.jpg)
+
+A jak merime, ze to je kysely?
+![Mereni](.fig/mereni.jpg)
+
+A jak merime hustotu? Po staru.
+![Mereni](.fig/mereni_2.jpg)
 
 ### 🧼 Sanitace
 Co to je?
+
+### Kvaseni
+
+Nesmi na to slunicko. A to se da zaridit jednodusse.
+
+![Kvaseni](.fig/kvaseni.jpg)
+
+### A co do toho vubec davame?
+
+Chmel
+![pes](.fig/chmeleni.jpg)
+
+Merunky
+![pes](.fig/merunky.jpg)
+
+Maliny
+![pes](.fig/maliny.jpg)
+
+Jahody
+![pes](.fig/jahoda.jpg)
+
+A nebo treba vyvar z repy.
+![pes](.fig/repa.jpg)
 
 ---
 
