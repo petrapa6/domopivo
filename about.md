@@ -5,7 +5,7 @@
 Domácí pivovar tvořen sestavou putovních sládků a ochutnávačů.
 Naše specialita? Vyvážené aroma a nevyvážené procesy.
 
-Vyber nasich sladku
+Vyber nasich sladku:
 
 ![Sladci](.fig/sladek_0.jpg)
 ![Sladci](.fig/sladek_7.jpg)
@@ -57,9 +57,6 @@ Kontrolou barvy, transparentnosti a zakalení vzorku pak poznáme kvalitu díla 
 
 A jak merime, ze to je kysely?
 ![Mereni](.fig/mereni.jpg)
-
-A jak merime hustotu? Po staru.
-![Mereni](.fig/mereni_2.jpg)
 
 ### 🧼 Sanitace
 Co to je?
